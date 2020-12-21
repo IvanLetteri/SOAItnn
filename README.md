@@ -1,0 +1,2 @@
+# SOAItnn
+Trading Neural Networks
