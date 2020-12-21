@@ -1,0 +1,4 @@
+plotly
+tensorflow==1.15.4
+gast==0.2.2
+tqdm
