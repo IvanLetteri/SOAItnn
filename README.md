@@ -1,4 +1,5 @@
 # SOAItnn
 Trading Neural Networks
 
-TansorTrade of other authors. You can find it here (https://github.com/tensortrade-org/tensortrade)
+TansorTrade is a framework from other authors. 
+You can find it [HERE](https://github.com/tensortrade-org/tensortrade)
